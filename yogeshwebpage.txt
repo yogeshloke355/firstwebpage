@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Yogesh Loke</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f5f5f5;
+        }
+        header {
+            background: url('https://example.com/konkan.jpg') no-repeat center center/cover;
+            color: white;
+            text-align: center;
+            padding: 100px 0;
+        }
+        nav {
+            background-color: #006400;
+            color: white;
+            padding: 10px 0;
+            text-align: center;
+        }
+        nav a {
+            color: white;
+            margin: 0 15px;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        section {
+            padding: 20px;
+            margin: 20px;
+            background-color: white;
+            box-shadow: 0 0 10px rgba(0,0,0,0.1);
+        }
+        footer {
+            background-color: #006400;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            position: fixed;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Yogesh Loke</h1>
+    <p>IRS Officer | Anti-Smuggling and Anti-Narcotics Specialist</p>
+</header>
+
+<nav>
+    <a href="#about">About Me</a>
+    <a href="#experience">Experience</a>
+    <a href="#contact">Contact</a>
+</nav>
+
+<section id="about">
+    <h2>About Me</h2>
+    <p>I am Yogesh Loke, a native of Malvan. I am an IRS officer of the 2013 batch specializing in anti-smuggling and anti-narcotics operations.</p>
+</section>
+
+<section id="experience">
+    <h2>Experience & Specializations</h2>
+    <p>Throughout my career, I have focused on combating illegal smuggling and narcotics operations. My expertise in these areas has been honed through years of dedicated service and numerous successful operations.</p>
+</section>
+
+<section id="contact">
+    <h2>Contact</h2>
+    <p>You can reach me at: <a href="mailto:yogesh.loke@example.com">yogesh.loke@example.com</a></p>
+</section>
+
+<footer>
+    <p>&copy; 2024 Yogesh Loke</p>
+</footer>
+
+</body>
+</html>
